@@ -1,0 +1,19 @@
+{
+website: 'amazon',
+username: 'tayr23423@hotmail.com',
+password: '1234',
+},
+{
+website: 'tinder',
+username: 'tayr23423@hotmail.com',
+password: '12345',
+},{
+website: 'amazon',
+username: 'tayr23423@hotmail.com',
+password: '2tEo*h*7jQ8Blm5Pn6Ev(ADW)Z&x1e$',
+},
+{
+website: 'WY2Xy&6mY$)qN',
+username: 'tayr23423@hotmail.com',
+password: 'WY2Xy&6mY$)qN',
+},
